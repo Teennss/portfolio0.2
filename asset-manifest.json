@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio0.2/static/css/main.5a9d04f5.css",
+    "main.js": "/portfolio0.2/static/js/main.a0fdd561.js",
+    "static/media/collcard.jpg": "/portfolio0.2/static/media/collcard.c21c9c8a717baa4362cd.jpg",
+    "static/media/omnifoodcard.jpg": "/portfolio0.2/static/media/omnifoodcard.84eb4d17ae694e3acff5.jpg",
+    "static/media/shoppiex.jpg": "/portfolio0.2/static/media/shoppiex.ab32108c3644f617fcc1.jpg",
+    "static/media/jsx.jpg": "/portfolio0.2/static/media/jsx.2a87586f754c1c001b0b.jpg",
+    "static/media/weatheriox.jpg": "/portfolio0.2/static/media/weatheriox.ab9dddb7256a285d3105.jpg",
+    "static/media/musicplayerx.jpg": "/portfolio0.2/static/media/musicplayerx.dba9fbe8bf127158c90e.jpg",
+    "static/media/bg.jpg": "/portfolio0.2/static/media/bg.07aea260d715464fd820.jpg",
+    "index.html": "/portfolio0.2/index.html",
+    "main.5a9d04f5.css.map": "/portfolio0.2/static/css/main.5a9d04f5.css.map",
+    "main.a0fdd561.js.map": "/portfolio0.2/static/js/main.a0fdd561.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a9d04f5.css",
+    "static/js/main.a0fdd561.js"
+  ]
+}
